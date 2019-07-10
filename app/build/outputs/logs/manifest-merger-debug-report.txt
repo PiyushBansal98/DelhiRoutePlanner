@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:5-43
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CONTROL_LOCATION_UPDATES
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:10:5-82
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:10:22-80
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:11:5-88
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:11:22-86
+uses-permission#android.permission.CALL_PRIVILEGED
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:13:6-69
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:13:23-67
+application
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:15:4-79:19
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:16:9-47
+activity#com.planner.SplashActivity
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:19:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.planner.MainScreen
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:27:9-29:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:28:13-39
+activity#com.planner.DtcStopDetail
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:30:9-32:51
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:31:17-46
+activity#com.planner.MetroStationDetail
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:33:9-35:51
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:35:17-49
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:34:17-51
+activity#com.planner.DtcServiceScreen
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:36:9-38:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:37:13-45
+activity#com.planner.MetroServiceScreen
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:39:9-41:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:40:13-47
+activity#com.planner.GpsMapsScreen
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:42:10-44:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:43:13-42
+activity#com.planner.MetroPlanRoute
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:45:10-47:48
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:47:14-46
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:46:14-44
+activity#com.planner.DtcPlanRoute
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:48:10-50:48
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:50:14-46
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:49:14-42
+activity#com.planner.MetroLineDetail
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:51:10-53:48
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:53:14-46
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:52:14-45
+activity#com.planner.UtilitiesMainscreen
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:54:11-56:48
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:56:14-46
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:55:14-49
+activity#com.planner.DelhiMajorOffices
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:57:10-59:48
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:59:14-46
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:58:14-47
+activity#com.planner.DelhiTaxiServices
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:60:9-62:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:61:13-46
+activity#com.planner.MapImage
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:63:9-65:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:65:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:64:13-37
+activity#com.planner.BusRouteDetail
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:66:9-68:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:67:13-43
+activity#com.planner.CustomerCareDtc
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:69:9-71:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:70:13-44
+activity#com.planner.CustomerCareMetro
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:72:9-74:47
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:73:13-46
+activity#com.planner.ContactDeveloper
+ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:75:9-77:48
+	android:label
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:77:13-46
+	android:name
+		ADDED from C:\Users\Piyush\AndroidStudioProjects\Delhi Route Planner Ver 1.01\app\src\main\AndroidManifest.xml:76:13-45

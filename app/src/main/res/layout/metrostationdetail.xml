@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+      
+        >
+
+ <ScrollView
+     android:id="@+id/scrollviewmain"
+     android:layout_width="fill_parent"
+     android:layout_height="match_parent" >
+
+
+   <RelativeLayout
+       android:id="@+id/relativeLayout2"
+       android:layout_width="match_parent"
+       android:layout_height="390dp" >
+
+   <LinearLayout
+             android:id="@+id/linearLayout1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentLeft="true"
+             android:layout_alignParentRight="true"
+             android:layout_alignParentTop="true" 
+             android:background="@color/Marom">
+
+	 <ImageView
+                 android:id="@+id/imageView1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:src="@drawable/metrologosmall" />
+
+
+             <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="16dp"
+                 android:textStyle="bold"
+                 android:typeface="serif"
+                 android:gravity="center"
+                 android:background="@color/Marom"
+                 android:textColor="@color/lightyellow"
+                 android:text="Metro : Station Detail" />
+
+         </LinearLayout>
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout1" >
+
+
+       <Spinner
+           android:id="@+id/MSDspinnerstations"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1" />
+
+   </LinearLayout>
+
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout3"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout2" >
+
+
+       <TextView
+           android:id="@+id/textView2"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:background="#FFFF00"
+           android:height="2dp" />
+
+   </LinearLayout>
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout4"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout3" >
+
+
+       <Button
+           android:id="@+id/MSDbuttonfetchdetail"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Fetch Detail"
+           android:textColor="@color/Marom"
+           android:textSize="18dp"
+           android:textStyle="bold"
+           android:typeface="serif" />
+
+   </LinearLayout>
+
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout5"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout4" >
+
+       <TextView
+           android:id="@+id/TextView01"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:background="#FFFF00"
+           android:height="2dp" />
+
+   </LinearLayout>
+
+
+   <TextView
+       android:id="@+id/textView3"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout5"
+       android:height="6dp" />
+
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout6"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/textView3" >
+
+       <TextView
+           android:id="@+id/textView4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Line / Status : "
+           android:textColor="@color/lightyellow"
+           android:textSize="17dp"
+           android:textStyle="bold"
+           android:typeface="serif" />
+
+
+
+       <TextView
+           android:id="@+id/MSDtextviewlinestatus"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:text="Line Color"
+           android:textSize="20dp"
+           android:textStyle="bold"
+           android:typeface="serif" />
+
+   </LinearLayout>
+
+
+   <TextView
+       android:id="@+id/textView6"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout6"
+       android:background="@color/lightyellow"
+       android:height="2dp"/>
+
+
+   <TextView
+       android:id="@+id/textView7"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/textView6"
+       android:height="6dp"/>
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout7"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/textView7" >
+
+
+
+
+
+
+       <EditText
+           android:id="@+id/MSDedittextshowdetail"
+           android:layout_width="wrap_content"
+           android:layout_height="189dp"
+           android:layout_weight="1"
+           android:inputType="textMultiLine"
+           android:gravity="top"
+           android:editable="false"
+           android:typeface="serif"
+           android:textSize="20dp" 
+           android:textColor="@color/lightyellow"
+           android:focusable="false"
+           android:enabled="false"
+           >
+
+           <requestFocus />
+       </EditText>
+
+   </LinearLayout>
+
+
+   <TextView
+       android:id="@+id/textView8"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/linearLayout7"
+       android:background="@color/lightyellow"
+       android:height="2dp" />
+
+
+   <TextView
+       android:id="@+id/textView9"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/textView8"
+       android:height="6dp"/>
+
+
+
+   <LinearLayout
+       android:id="@+id/linearLayout8"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_below="@+id/textView9"
+       android:gravity="left" >
+
+       <TextView
+           android:id="@+id/textView10"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:text="                     "
+           android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   </LinearLayout>
+
+     </RelativeLayout>
+
+</ScrollView>
+
+</RelativeLayout>

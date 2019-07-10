@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000000</color>
+    <color name="BlueColor">#0000EE</color>
+    <color name="GreenColor">#76EE00</color>
+    <color name="Marom">#810541</color>
+    <color name="OrangeColor">#D2691E</color>
+    <color name="RedColor">#8B0000</color>
+    <color name="VoiletColor">#5C246E</color>
+    <color name="Yellow">#D9D919</color>
+    <color name="green">#00FF00</color>
+    <color name="lightyellow">#FFF380</color>
+    <color name="orange">#FFA500</color>
+    <string name="BusStopName">Select Stop Name</string>
+    <string name="app_name">Delhi Route Planner Ver 1.0</string>
+    <string name="blank">----------------------------------------------------------------</string>
+    <string name="dtc">DTC Services</string>
+    <string name="gpsmaps">Location &amp; Maps</string>
+    <string name="metro">Metro Services</string>
+    <string name="selectRoute">Select DTC Route from List</string>
+    <string name="selectdestination">Select your Destination</string>
+    <string name="selectoffice">Select Office From List </string>
+    <string name="selectsource">Select Your Source</string>
+    <string name="selecttaxi">Select taxi Service from List</string>
+    <string name="utilities">Taxi &amp; Offices</string>
+</resources>
